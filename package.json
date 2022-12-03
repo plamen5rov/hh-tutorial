@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/plamen5rov/hh-tutorial#readme",
   "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
     "hardhat": "^2.12.3"
   }
 }
